@@ -1,0 +1,46 @@
+<svg id="Group_3256" data-name="Group 3256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="69" viewBox="0 0 69 69">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.627" y1="0.322" x2="0.197" y2="0.91" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e1fcfc"/>
+      <stop offset="1" stop-color="#d0f7f6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.373" y1="0.322" x2="0.803" y2="0.91" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_562" data-name="Ellipse 562" cx="34.5" cy="34.5" r="34.5" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <filter id="Rectangle_4032" x="-3.096" y="15.49" width="47.192" height="40.021" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#7996b4" flood-opacity="0.173"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f7fafa"/>
+    </linearGradient>
+    <filter id="Rectangle_4031" x="-16.5" y="25.5" width="67" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-color="#7996b4" flood-opacity="0.173"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="Ellipse_558" data-name="Ellipse 558" cx="34.5" cy="34.5" r="34.5" fill="url(#linear-gradient-2)"/>
+  <g id="Mask_Group_115" data-name="Mask Group 115" clip-path="url(#clip-path)">
+    <g id="Group_3255" data-name="Group 3255" transform="translate(-13 18.99)">
+      <g id="Group_3254" data-name="Group 3254" transform="translate(45.414 31.02) rotate(-160)">
+        <g transform="matrix(-0.94, 0.34, -0.34, -0.94, 47.56, 35.91)" filter="url(#Rectangle_4032)">
+          <rect id="Rectangle_4032-2" data-name="Rectangle 4032" width="33" height="21" rx="2" transform="translate(32.41 50.01) rotate(-160)" fill="#21c6bf"/>
+        </g>
+        <rect id="Rectangle_4033" data-name="Rectangle 4033" width="33" height="3" transform="translate(0 15)" fill="#1daba4"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 13, -18.99)" filter="url(#Rectangle_4031)">
+        <path id="Rectangle_4031-2" data-name="Rectangle 4031" d="M0,0H56a2,2,0,0,1,2,2V48a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(-12 29)" fill="url(#linear-gradient-3)"/>
+      </g>
+      <rect id="Rectangle_4034" data-name="Rectangle 4034" width="34" height="10" transform="translate(0 26.01)" fill="#e1effc"/>
+      <circle id="Ellipse_563" data-name="Ellipse 563" cx="3" cy="3" r="3" transform="translate(26 28.01)" fill="#63c9c6"/>
+    </g>
+  </g>
+</svg>

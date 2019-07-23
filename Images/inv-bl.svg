@@ -1,0 +1,20 @@
+<svg id="Group_3263" data-name="Group 3263" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75.5" height="75.5" viewBox="0 0 75.5 75.5">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2682de"/>
+      <stop offset="1" stop-color="#227bd4" stop-opacity="0.18"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.825" y2="0.897" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2682de"/>
+      <stop offset="1" stop-color="#227bd4"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3261" data-name="Group 3261">
+    <circle id="Ellipse_552" data-name="Ellipse 552" cx="37.75" cy="37.75" r="37.75" opacity="0.642" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_553" data-name="Ellipse 553" cx="28.023" cy="28.023" r="28.023" transform="translate(9.727 9.727)" fill="url(#linear-gradient)"/>
+  </g>
+  <g id="Group_3262" data-name="Group 3262" transform="translate(22.614 22.383)">
+    <path id="ic_play_for_work_24px" d="M18.231,5V16.912H10.773l9.59,9.59,9.59-9.59H22.493V5Z" transform="translate(-5.486 -5)" fill="#fff"/>
+    <path id="Subtraction_22" data-name="Subtraction 22" d="M29.775,6.161H0l.684-.684H29.091l.682.682ZM27.038,3.425H2.734l.685-.685H26.353l.683.683ZM24.3.687H5.472L6.156,0h17.46L24.3.685Z" transform="translate(0 24.632)" fill="#fff"/>
+  </g>
+</svg>

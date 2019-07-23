@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75.5" height="75.5" viewBox="0 0 75.5 75.5">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#26b6de"/>
+      <stop offset="1" stop-color="#22add4" stop-opacity="0.18"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.825" y2="0.897" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#26b6de"/>
+      <stop offset="1" stop-color="#22add4"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4041" data-name="Rectangle 4041" width="23.726" height="42.182" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3264" data-name="Group 3264" transform="translate(-140.5 -3813)">
+    <g id="Group_3259" data-name="Group 3259" transform="translate(140.5 3813)">
+      <circle id="Ellipse_552" data-name="Ellipse 552" cx="37.75" cy="37.75" r="37.75" opacity="0.642" fill="url(#radial-gradient)"/>
+      <circle id="Ellipse_553" data-name="Ellipse 553" cx="28.023" cy="28.023" r="28.023" transform="translate(9.727 9.727)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Mask_Group_117" data-name="Mask Group 117" transform="translate(166.504 3830.283)" clip-path="url(#clip-path)">
+      <g id="Group_3260" data-name="Group 3260" transform="translate(-22.812 -17.778)">
+        <g id="Rectangle_4035" data-name="Rectangle 4035" transform="matrix(0.574, -0.819, 0.819, 0.574, 8.383, 56.238)" fill="none" stroke="#d9f5fd" stroke-width="1">
+          <rect width="57.012" height="23.489" stroke="none"/>
+          <rect x="0.5" y="0.5" width="56.012" height="22.489" fill="none"/>
+        </g>
+        <g id="Rectangle_4036" data-name="Rectangle 4036" transform="matrix(0.574, -0.819, 0.819, 0.574, 0.665, 59.46)" fill="none" stroke="#d9f5fd" stroke-width="1">
+          <rect width="72.146" height="32.438" stroke="none"/>
+          <rect x="0.5" y="0.5" width="71.146" height="31.438" fill="none"/>
+        </g>
+        <path id="Path_3242" data-name="Path 3242" d="M14.044,0V20.188H0Z" transform="translate(24.012 19.225)" fill="#fff"/>
+        <path id="Path_3243" data-name="Path 3243" d="M14.044,0V20.188H0Z" transform="translate(45.078 58.723) rotate(180)" fill="#fff"/>
+        <path id="Union_6" data-name="Union 6" d="M17.9,77.738v-.559H0V27.4H21.812V60.96H41.386V77.738Zm29.641-.559v-60.4h-33V0H70.468V16.778H69.35v60.4Z" transform="translate(0 0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

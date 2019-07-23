@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="654.112" height="654.112" viewBox="0 0 654.112 654.112">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2682de"/>
+      <stop offset="1" stop-color="#227bd4" stop-opacity="0.18"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.825" y2="0.897" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2682de"/>
+      <stop offset="1" stop-color="#227bd4"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3252" data-name="Group 3252" transform="translate(327 -1256)">
+    <circle id="Ellipse_551" data-name="Ellipse 551" cx="327.056" cy="327.056" r="327.056" transform="translate(-327 1256)" opacity="0.642" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_560" data-name="Ellipse 560" cx="251.056" cy="251.056" r="251.056" transform="translate(-251 1332)" opacity="0.116" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_550" data-name="Ellipse 550" cx="157" cy="157" r="157" transform="translate(-157 1426)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

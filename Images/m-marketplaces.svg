@@ -1,0 +1,110 @@
+<svg id="Group_3257" data-name="Group 3257" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="69" viewBox="0 0 69 69">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.627" y1="0.322" x2="0.197" y2="0.91" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e1f6fc"/>
+      <stop offset="1" stop-color="#d0eff7"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_564" data-name="Ellipse 564" cx="34.5" cy="34.5" r="34.5" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <filter id="Rectangle_3523" x="-79.65" y="19.5" width="130.15" height="86.838" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#225978" flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Handset" x="-168.936" y="-17.636" width="243.372" height="254.087" filterUnits="userSpaceOnUse">
+      <feOffset dy="50" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="39" result="blur-2"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#687c8f"/>
+      <stop offset="1" stop-color="#0f2a45"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Mask" width="8.586" height="17.218" rx="4.293" transform="translate(0 0)" fill="#f4f4f4"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="1.068" y2="1.123" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#102f54"/>
+      <stop offset="1" stop-color="#b7cae3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.334" y1="0.073" x2="1.031" y2="1.107" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#18365b"/>
+      <stop offset="1" stop-color="#a2b6d1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x2="1.065" y2="1.103" xlink:href="#linear-gradient-4"/>
+  </defs>
+  <circle id="Ellipse_559" data-name="Ellipse 559" cx="34.5" cy="34.5" r="34.5" fill="url(#linear-gradient)"/>
+  <g id="Mask_Group_116" data-name="Mask Group 116" clip-path="url(#clip-path)">
+    <g id="Group_2713" data-name="Group 2713" transform="translate(-75.15 23)">
+      <g transform="matrix(1, 0, 0, 1, 75.15, -23)" filter="url(#Rectangle_3523)">
+        <rect id="Rectangle_3523-2" data-name="Rectangle 3523" width="121.15" height="77.838" rx="4" transform="translate(-75.15 23)" fill="#f7f9fa"/>
+      </g>
+      <path id="Rectangle_3527" data-name="Rectangle 3527" d="M2,0H119.15a2,2,0,0,1,2,2v8.044a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" fill="#fff"/>
+      <rect id="Rectangle_3524" data-name="Rectangle 3524" width="48.962" height="33.897" rx="2" transform="translate(64.655 26.364)" fill="#fff"/>
+      <rect id="Rectangle_3525" data-name="Rectangle 3525" width="48.962" height="8.16" transform="translate(64.655 26.364)" fill="#edf0f2"/>
+      <g id="Group_2704" data-name="Group 2704" transform="translate(23.093 26.364)">
+        <g id="Group_2678" data-name="Group 2678" transform="translate(11.223 0)">
+          <path id="Volume_Button" data-name="Volume Button" d="M.122,0H.038A.038.038,0,0,0,0,.038V2.786a.038.038,0,0,0,.038.038H.122Z" transform="translate(0.008 7.227)" fill="#2f3331"/>
+          <path id="Power_Button" data-name="Power Button" d="M.122,0H.038A.038.038,0,0,0,0,.038V1.412a.038.038,0,0,0,.038.038H.122Z" transform="translate(0.008 4.32)" fill="#7be4c0"/>
+          <path id="Handset-2" data-name="Handset" d="M8.242,0H1.129A1.13,1.13,0,0,0,0,1.13V18.958a1.13,1.13,0,0,0,1.129,1.13H8.242a1.13,1.13,0,0,0,1.129-1.13V1.13A1.13,1.13,0,0,0,8.242,0Z" transform="translate(0.131)" fill="#111312"/>
+          <path id="Mask-2" data-name="Mask" d="M8.227,0H.359A.359.359,0,0,0,0,.359v16.5a.359.359,0,0,0,.359.359H8.227a.359.359,0,0,0,.359-.359V.359A.359.359,0,0,0,8.227,0Z" transform="translate(0.527 1.542)" fill="#f4f4f4"/>
+          <path id="Path_Copy" data-name="Path Copy" d="M.008,0H0V.023H.008Z" transform="translate(0 7.273)" fill="#ebebeb" stroke="#979797" stroke-width="1"/>
+          <path id="Mask-3" data-name="Mask" d="M8.227,0H.359A.359.359,0,0,0,0,.359v16.5a.359.359,0,0,0,.359.359H8.227a.359.359,0,0,0,.359-.359V.359A.359.359,0,0,0,8.227,0Z" transform="translate(0.527 1.542)" fill="#f4f4f4"/>
+          <path id="Camera_2" data-name="Camera 2" d="M.149,0A.149.149,0,1,0,.3.149.149.149,0,0,0,.149,0Z" transform="translate(6.579 0.664)" fill="#2e2e2e"/>
+          <path id="Camera_1" data-name="Camera 1" d="M.237,0A.237.237,0,1,0,.473.237.237.237,0,0,0,.237,0Z" transform="translate(7.335 0.572)" fill="#2e2e2e"/>
+          <path id="Rectangle" d="M2.122,0H.084A.084.084,0,0,0,0,.084V.137A.084.084,0,0,0,.084.221H2.122A.084.084,0,0,0,2.206.137V.084A.084.084,0,0,0,2.122,0Z" transform="translate(3.717 0.595)" fill="#2e2e2e"/>
+          <path id="Rectangle-2" data-name="Rectangle" d="M2.122,0H.084A.084.084,0,0,0,0,.084V.137A.084.084,0,0,0,.084.221H2.122A.084.084,0,0,0,2.206.137V.084A.084.084,0,0,0,2.122,0Z" transform="translate(3.717 19.339)" fill="#2e2e2e"/>
+          <path id="Rectangle_Copy" data-name="Rectangle Copy" d="M.473,0H.084A.084.084,0,0,0,0,.084V.137A.084.084,0,0,0,.084.221H.473A.084.084,0,0,0,.557.137V.084A.084.084,0,0,0,.473,0Z" transform="translate(4.542 18.263)" fill="#4c4c4c"/>
+          <path id="Handset-3" data-name="Handset" d="M8.242,0H1.129A1.13,1.13,0,0,0,0,1.13V18.958a1.13,1.13,0,0,0,1.129,1.13H8.242a1.13,1.13,0,0,0,1.129-1.13V1.13A1.13,1.13,0,0,0,8.242,0Z" transform="translate(0.131)" fill="#e9e9e9"/>
+          <path id="Volume_Button-2" data-name="Volume Button" d="M.084,0H0V2.824H.084a.038.038,0,0,0,.038-.038V.038A.038.038,0,0,0,.084,0Z" transform="translate(9.502 7.227)" fill="#2b2e2c"/>
+          <path id="Power_Button-2" data-name="Power Button" d="M.084,0H0V1.45H.084a.038.038,0,0,0,.038-.038V.038A.038.038,0,0,0,.084,0Z" transform="translate(9.502 4.32)" fill="#7be4c0"/>
+          <path id="Overlay" d="M7.968,0H.855A.855.855,0,0,0,0,.855V15.142A.855.855,0,0,0,.855,16H7.968a.855.855,0,0,0,.855-.855V.855A.855.855,0,0,0,7.968,0Z" transform="translate(0.405 3.816)" fill="#f4f4f4"/>
+          <path id="Overlay-2" data-name="Overlay" d="M7.968,0H.855A.855.855,0,0,0,0,.855V15.142A.855.855,0,0,0,.855,16H7.968a.855.855,0,0,0,.855-.855V.855A.855.855,0,0,0,7.968,0Z" transform="translate(0.405 3.816)" fill="#f4f4f4"/>
+          <path id="Camera" d="M.714,0a.714.714,0,1,0,.714.714A.714.714,0,0,0,.714,0Z" transform="translate(7.197 1.076)" fill="#333"/>
+          <path id="Flash" d="M.3,0A.3.3,0,1,0,.6.3.3.3,0,0,0,.3,0Z" transform="translate(5.77 1.496)" fill="#acacac"/>
+          <path id="Sensor" d="M.134,0A.134.134,0,1,0,.267.134.134.134,0,0,0,.134,0Z" transform="translate(6.663 1.626)" fill="#9e825d"/>
+        </g>
+        <g id="Group_2680" data-name="Group 2680" transform="translate(0 0)">
+          <path id="Volume_Button-3" data-name="Volume Button" d="M.122,0H.038A.038.038,0,0,0,0,.038V2.786a.038.038,0,0,0,.038.038H.122Z" transform="translate(0 7.227)" fill="#2f3331"/>
+          <path id="Power_Button-3" data-name="Power Button" d="M.122,0H.038A.038.038,0,0,0,0,.038V1.412a.038.038,0,0,0,.038.038H.122Z" transform="translate(0 4.32)" fill="#7be4c0"/>
+          <g transform="matrix(1, 0, 0, 1, 52.06, -49.36)" filter="url(#Handset)">
+            <path id="Handset-4" data-name="Handset" d="M8.242,0H1.13A1.13,1.13,0,0,0,0,1.13V18.958a1.13,1.13,0,0,0,1.13,1.13H8.242a1.13,1.13,0,0,0,1.13-1.13V1.13A1.13,1.13,0,0,0,8.242,0Z" transform="translate(-51.94 49.36)" fill="#111312"/>
+          </g>
+          <path id="Mask-4" data-name="Mask" d="M8.227,0H.359A.359.359,0,0,0,0,.359v16.5a.359.359,0,0,0,.359.359H8.227a.359.359,0,0,0,.359-.359V.359A.359.359,0,0,0,8.227,0Z" transform="translate(0.519 1.542)" fill="url(#linear-gradient-3)"/>
+          <g id="Group_2679" data-name="Group 2679" transform="translate(0.519 1.542)" clip-path="url(#clip-path-2)">
+            <rect id="Path_Copy-2" data-name="Path Copy" width="0.008" height="0.023" transform="translate(-0.527 5.732)" fill="#ebebeb" stroke="#979797" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+          <path id="Camera_2-2" data-name="Camera 2" d="M.149,0A.149.149,0,1,0,.3.149.149.149,0,0,0,.149,0Z" transform="translate(6.571 0.664)" fill="#2e2e2e"/>
+          <path id="Camera_1-2" data-name="Camera 1" d="M.237,0A.237.237,0,1,0,.473.237.237.237,0,0,0,.237,0Z" transform="translate(7.327 0.572)" fill="#2e2e2e"/>
+          <path id="Rectangle-3" data-name="Rectangle" d="M2.122,0H.084A.084.084,0,0,0,0,.084V.137A.084.084,0,0,0,.084.221H2.122A.084.084,0,0,0,2.206.137V.084A.084.084,0,0,0,2.122,0Z" transform="translate(3.709 0.595)" fill="#2e2e2e"/>
+          <path id="Rectangle-4" data-name="Rectangle" d="M2.122,0H.084A.084.084,0,0,0,0,.084V.137A.084.084,0,0,0,.084.221H2.122A.084.084,0,0,0,2.206.137V.084A.084.084,0,0,0,2.122,0Z" transform="translate(3.709 19.339)" fill="#2e2e2e"/>
+          <path id="Rectangle_Copy-2" data-name="Rectangle Copy" d="M.473,0H.084A.084.084,0,0,0,0,.084V.137A.084.084,0,0,0,.084.221H.473A.084.084,0,0,0,.557.137V.084A.084.084,0,0,0,.473,0Z" transform="translate(4.533 18.263)" fill="#4c4c4c"/>
+        </g>
+      </g>
+      <text id="Checkout" transform="translate(96.618 19.065)" fill="#104e8d" font-size="4" font-family="HPSimplified-Regular, HP Simplified" letter-spacing="0.05em"><tspan x="0" y="0">Checkout</tspan></text>
+      <text id="Pay_with_SW_Wallet" data-name="Pay with SW Wallet" transform="translate(80.085 31.247)" fill="#646a71" font-size="3" font-family="HPSimplified-Regular, HP Simplified" letter-spacing="0.05em"><tspan x="0" y="0">Pay with SW Wallet</tspan></text>
+      <text id="_13_000.00" data-name="£13,000.00" transform="translate(93.851 39.408)" fill="#646a71" font-size="3" font-family="HPSimplified-Regular, HP Simplified" letter-spacing="0.05em"><tspan x="0" y="0">£13,000.00</tspan></text>
+      <text id="Supplier_Credit" data-name="Supplier Credit" transform="translate(77.392 39.036)" fill="#646a71" font-size="2" font-family="HPSimplified-Light, HP Simplified" font-weight="300" letter-spacing="0.05em"><tspan x="0" y="0">Supplier Credit</tspan></text>
+      <text id="_11_740.50" data-name="£11,740.50" transform="translate(93.851 45.057)" fill="#646a71" font-size="3" font-family="HPSimplified-Regular, HP Simplified" letter-spacing="0.05em"><tspan x="0" y="0">£11,740.50</tspan></text>
+      <text id="SW_Credits" data-name="SW Credits" transform="matrix(-1, 0, 0, 1, 90.392, 44.685)" fill="#646a71" font-size="2" font-family="HPSimplified-Light, HP Simplified" font-weight="300" letter-spacing="0.05em"><tspan x="0" y="0">SW Credits</tspan></text>
+      <g id="swicon" transform="translate(108.368 29.025)">
+        <path id="Path_1619" data-name="Path 1619" d="M20679.375-11316.709a1.636,1.636,0,0,1,.525-.094.613.613,0,0,1,.885-.117c.477.4.621,2.082.621,2.082a11.829,11.829,0,0,0-.969-1.506A.851.851,0,0,0,20679.375-11316.709Z" transform="translate(-20679.375 11317.668)" fill="url(#linear-gradient-4)"/>
+        <path id="Path_1620" data-name="Path 1620" d="M20637.105-11382.484a1.183,1.183,0,0,1-.352,1.5c-.816.808.605.965.605.965s-1.473,0-1.361-1.105a.562.562,0,0,1,.389-.542A1.511,1.511,0,0,0,20637.105-11382.484Z" transform="translate(-20634.934 11382.484)" fill="url(#linear-gradient-5)"/>
+        <path id="Path_1623" data-name="Path 1623" d="M20695.658-11307.594a9.272,9.272,0,0,1,.232,1.309s-.143-.273-.424-.716C20695.309-11307.287,20695.658-11307.594,20695.658-11307.594Z" transform="translate(-20693.857 11309.116)" fill="url(#linear-gradient-6)"/>
+      </g>
+      <g id="swicon-2" data-name="swicon" transform="translate(108.782 2.202)">
+        <path id="Path_1619-2" data-name="Path 1619" d="M20679.377-11316.27a3.678,3.678,0,0,1,1.162-.209,1.355,1.355,0,0,1,1.957-.258c1.051.887,1.375,4.6,1.375,4.6a26.236,26.236,0,0,0-2.148-3.331A1.877,1.877,0,0,0,20679.377-11316.27Z" transform="translate(-20679.377 11318.39)" fill="url(#linear-gradient-4)"/>
+        <path id="Path_1620-2" data-name="Path 1620" d="M20638.455-11382.484s1.023,1.534-.777,3.319,1.34,2.136,1.34,2.136-3.258,0-3.01-2.445a1.242,1.242,0,0,1,.857-1.2,3.338,3.338,0,0,0,1.592-1.811Z" transform="translate(-20633.652 11382.484)" fill="url(#linear-gradient-5)"/>
+        <path id="Path_1623-2" data-name="Path 1623" d="M20695.941-11307.594a19.593,19.593,0,0,1,.512,2.892s-.311-.6-.934-1.581C20695.168-11306.916,20695.941-11307.594,20695.941-11307.594Z" transform="translate(-20691.959 11310.959)" fill="url(#linear-gradient-6)"/>
+      </g>
+      <rect id="Rectangle_3528" data-name="Rectangle 3528" width="57.75" height="5.649" rx="2" transform="translate(31.386 2.511)" fill="#f5f9fc"/>
+      <rect id="Rectangle_3526" data-name="Rectangle 3526" width="23.226" height="5.649" transform="translate(65.911 52.101)" fill="#0c5399"/>
+      <text id="CHECKOUT-2" data-name="CHECKOUT" transform="matrix(-1, 0, 0, 1, 83.487, 55.356)" fill="#fff" font-size="2" font-family="HPSimplified-Regular, HP Simplified" letter-spacing="0.05em"><tspan x="0" y="0">CHECKOUT</tspan></text>
+    </g>
+  </g>
+</svg>

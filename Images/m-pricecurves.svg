@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="69" viewBox="0 0 69 69">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.373" y1="0.322" x2="0.803" y2="0.91" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e1effc"/>
+      <stop offset="1" stop-color="#d0e4f7"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_561" data-name="Ellipse 561" cx="34.5" cy="34.5" r="34.5" transform="translate(47 1987)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="0.455" y1="0.452" x2="0.366" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bdefe8"/>
+      <stop offset="1" stop-color="#9ce3e0"/>
+    </linearGradient>
+    <filter id="Path_3240" x="-26.719" y="9.668" width="156.993" height="69.597" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#7996b4" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-4" x1="0.988" y1="0.388" x2="0.5" y2="0.978" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#badaf5"/>
+      <stop offset="1" stop-color="#a8ceed"/>
+    </linearGradient>
+    <filter id="Line_2214" x="-32.322" y="4.517" width="168.199" height="80.79" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#7996b4" flood-opacity="0.431"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3258" data-name="Group 3258" transform="translate(-294 -2255)">
+    <circle id="Ellipse_557" data-name="Ellipse 557" cx="34.5" cy="34.5" r="34.5" transform="translate(294 2255)" fill="url(#linear-gradient)"/>
+    <g id="Mask_Group_114" data-name="Mask Group 114" transform="translate(247 268)" clip-path="url(#clip-path)">
+      <g id="Group_3253" data-name="Group 3253" transform="translate(-22.444 -18.058)">
+        <g transform="matrix(1, 0, 0, 1, 69.44, 2005.06)" filter="url(#Path_3240)">
+          <path id="Path_3240-2" data-name="Path 3240" d="M0,0,147.993,60.6H0Z" transform="translate(-22.22 13.17)" fill="url(#linear-gradient-3)"/>
+        </g>
+        <path id="Subtraction_23" data-name="Subtraction 23" d="M58.039,60.6H0V0L58.039,23.764V60.6Z" transform="translate(47.223 2018.224)" fill="url(#linear-gradient-4)"/>
+        <g transform="matrix(1, 0, 0, 1, 69.44, 2005.06)" filter="url(#Line_2214)">
+          <line id="Line_2214-2" data-name="Line 2214" x1="149.444" y1="60.938" transform="translate(-22.94 12.44)" fill="none" stroke="#237ed8" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

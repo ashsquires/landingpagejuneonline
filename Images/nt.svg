@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10.066" height="18.874" viewBox="0 0 10.066 18.874">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.391" y1="0.384" x2="0.844" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e1f6fc"/>
+      <stop offset="1" stop-color="#ccf4ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3146" data-name="Group 3146" transform="translate(-5765.934 -3397.375)">
+    <path id="Path_3098" data-name="Path 3098" d="M6.711,0V9.647H0Z" transform="translate(5765.934 3397.375)" fill="url(#linear-gradient)"/>
+    <path id="Path_3099" data-name="Path 3099" d="M6.711,0V9.647H0Z" transform="translate(5776 3416.249) rotate(180)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

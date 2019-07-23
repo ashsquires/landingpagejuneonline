@@ -1,0 +1,9 @@
+<svg id="noun_forest_31668" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.327" height="14.545" viewBox="0 0 16.327 14.545">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9fe6e3"/>
+      <stop offset="1" stop-color="#e3f7f7"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_3043" data-name="Path 3043" d="M13.13,21.466H11.894v2.358H10.261V21.466H5l3.83-4.9H7.217l2.8-3.628H8.853l2.181-3.116,2.181,3.116H12.053l2.8,3.628H13.239l1.331,1.657-1.234,1.608h1Zm8.2.726-2.491-3.084h1.049l-1.82-2.358h.756L17.4,14.722l-1.419,2.027h.756l-1.82,2.358h1.049l-2.491,3.084H16.61v2.177h1.633V22.191Z" transform="translate(-5 -9.823)" fill="url(#linear-gradient)"/>
+</svg>

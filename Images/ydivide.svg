@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99" height="356" viewBox="0 0 99 356">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3934" data-name="Rectangle 3934" width="99" height="356" transform="translate(670 1386)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Rectangle_3871" x="-545" y="-10" width="1190" height="386" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#225978" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3872" x="-590" y="-50" width="1280" height="476" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-2"/>
+      <feFlood flood-color="#225978" flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_106" data-name="Mask Group 106" transform="translate(-670 -1386)" clip-path="url(#clip-path)">
+    <g id="Group_3158" data-name="Group 3158" transform="translate(140 1386)">
+      <g id="Group_3119" data-name="Group 3119">
+        <g transform="matrix(1, 0, 0, 1, 530, 0)" filter="url(#Rectangle_3871)">
+          <rect id="Rectangle_3871-2" data-name="Rectangle 3871" width="1160" height="356" rx="2" transform="translate(-530 0)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 530, 0)" filter="url(#Rectangle_3872)">
+          <rect id="Rectangle_3872-2" data-name="Rectangle 3872" width="1160" height="356" rx="2" transform="translate(-530 0)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_3118" data-name="Group 3118">
+        <path id="Path_3085" data-name="Path 3085" d="M0,0H630.5L531,356H0Z" fill="#fff"/>
+        <path id="Path_3089" data-name="Path 3089" d="M0,0H630L531,356H0Z" transform="translate(1160 356) rotate(180)" fill="#ebf2fa"/>
+      </g>
+    </g>
+  </g>
+</svg>

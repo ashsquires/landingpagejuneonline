@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="180" viewBox="0 0 130 180">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4049" data-name="Rectangle 4049" width="130" height="180" transform="translate(1169 5073)" fill="#fff"/>
+    </clipPath>
+    <filter id="Rectangle_4045" x="-2.547" y="15.5" width="122" height="15" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#7996b4" flood-opacity="0.114"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4045-2" x="40.453" y="49.5" width="71" height="15" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-color="#79b5b3" flood-opacity="0.263"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4045-3" x="8.5" y="83.5" width="96.953" height="15" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-color="#79b5b3" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4045-4" x="3.453" y="117.5" width="114" height="15" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-4"/>
+      <feFlood flood-color="#79adb5" flood-opacity="0.133"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4045-5" x="-2.547" y="151.5" width="95.047" height="15" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-5"/>
+      <feFlood flood-color="#79b598" flood-opacity="0.224"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_122" data-name="Mask Group 122" transform="translate(-1169 -5073)" clip-path="url(#clip-path)">
+    <g id="Group_3277" data-name="Group 3277" transform="translate(8.953)">
+      <g id="Group_3274" data-name="Group 3274" transform="translate(1162 5092)">
+        <rect id="Rectangle_4046" data-name="Rectangle 4046" width="109" height="2" transform="translate(21 2)" fill="#e2f2ff"/>
+        <g transform="matrix(1, 0, 0, 1, -1.95, -19)" filter="url(#Rectangle_4045)">
+          <rect id="Rectangle_4045-6" data-name="Rectangle 4045" width="113" height="6" transform="translate(1.95 19)" fill="#009dcc"/>
+        </g>
+      </g>
+      <g id="Group_3274-2" data-name="Group 3274" transform="translate(1205 5126)">
+        <rect id="Rectangle_4046-2" data-name="Rectangle 4046" width="81" height="2" transform="translate(4 2)" fill="#e2f2ff"/>
+        <g transform="matrix(1, 0, 0, 1, -44.95, -53)" filter="url(#Rectangle_4045-2)">
+          <rect id="Rectangle_4045-7" data-name="Rectangle 4045" width="62" height="6" transform="translate(44.95 53)" fill="#2ed1cc"/>
+        </g>
+      </g>
+      <g id="Group_3274-3" data-name="Group 3274" transform="translate(1173.047 5160)">
+        <rect id="Rectangle_4046-3" data-name="Rectangle 4046" width="108.953" height="2" transform="translate(8 2)" fill="#e2f2ff"/>
+        <g transform="matrix(1, 0, 0, 1, -13, -87)" filter="url(#Rectangle_4045-3)">
+          <rect id="Rectangle_4045-8" data-name="Rectangle 4045" width="87.953" height="6" transform="translate(13 87)" fill="#2ed1cc"/>
+        </g>
+      </g>
+      <g id="Group_3274-4" data-name="Group 3274" transform="translate(1168 5194)">
+        <rect id="Rectangle_4046-4" data-name="Rectangle 4046" width="108.953" height="2" transform="translate(13.047 2)" fill="#e2f2ff"/>
+        <g transform="matrix(1, 0, 0, 1, -7.95, -121)" filter="url(#Rectangle_4045-4)">
+          <rect id="Rectangle_4045-9" data-name="Rectangle 4045" width="105" height="6" transform="translate(7.95 121)" fill="#2ed1cc"/>
+        </g>
+      </g>
+      <g id="Group_3274-5" data-name="Group 3274" transform="translate(1162 5228)">
+        <rect id="Rectangle_4046-5" data-name="Rectangle 4046" width="109" height="2" transform="translate(21 2)" fill="#e2f2ff"/>
+        <g transform="matrix(1, 0, 0, 1, -1.95, -155)" filter="url(#Rectangle_4045-5)">
+          <rect id="Rectangle_4045-10" data-name="Rectangle 4045" width="86.047" height="6" transform="translate(1.95 155)" fill="#2ed1a0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
