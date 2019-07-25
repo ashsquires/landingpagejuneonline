@@ -1029,7 +1029,7 @@ h2 {
 }
 
 .mob-product-pics {
-  display: inline;
+  display: none;
 }
 
 .demopara {
@@ -3263,17 +3263,20 @@ footer .norm {
       display: none;
     }
 
-    .mob-product-pics {
-      display: inline;
-    }
-
     .demotext {
       margin: 0;
     }
 
     .mob-product-pics {
-      width: 100%;
+      display: inline;
+      width: 80%;
+      margin: 20px auto;
       box-shadow: 0px 5px 10px rgba(34, 89, 120, 0.2), 0px 10px 40px rgba(34, 89, 120, 0.05);
+    }
+
+    .dtext {
+      display: flex;
+      flex-direction: column;
     }
 
 
