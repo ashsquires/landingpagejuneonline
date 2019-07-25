@@ -73,7 +73,8 @@ $(document).ready(() => {
 
 
   $(".dtext").on('mouseenter', (event) => {
-    if (($(event.currentTarget).attr('id')) === "d-login") {
+    if($(window).width() > 768){
+      if (($(event.currentTarget).attr('id')) === "d-login") {
       $p1pic.fadeIn("fast");
       $p2pic.hide();
       $p3pic.hide();
@@ -82,24 +83,25 @@ $(document).ready(() => {
       $p2text.find('p').removeClass('d-arrow-act');
       $p3text.removeClass('d-active');
       $p3text.find('h2').removeClass('dtexth2-finish');
-    } else if (($(event.currentTarget).attr('id')) === "d-purchase") {
-      $p1pic.hide();
-      $p2pic.fadeIn("fast");
-      $p3pic.hide();
-      $p2text.addClass('d-active');
-      $p2text.find('h2').addClass('dtexth2-act');
-      $p2text.find('p').addClass('d-arrow-act');
-      $p3text.removeClass('d-active');
-      $p3text.find('h2').removeClass('dtexth2-finish');
-    } else if (($(event.currentTarget).attr('id')) === "d-earn") {
-      $p1pic.hide();
-      $p2pic.hide();
-      $p3pic.fadeIn("fast");
-      $p2text.addClass('d-active');
-      $p2text.find('h2').addClass('dtexth2-act');
-      $p2text.find('p').addClass('d-arrow-act');
-      $p3text.addClass('d-active');
-      $p3text.find('h2').addClass('dtexth2-finish');
+      } else if (($(event.currentTarget).attr('id')) === "d-purchase") {
+        $p1pic.hide();
+        $p2pic.fadeIn("fast");
+        $p3pic.hide();
+        $p2text.addClass('d-active');
+        $p2text.find('h2').addClass('dtexth2-act');
+        $p2text.find('p').addClass('d-arrow-act');
+        $p3text.removeClass('d-active');
+        $p3text.find('h2').removeClass('dtexth2-finish');
+      } else if (($(event.currentTarget).attr('id')) === "d-earn") {
+        $p1pic.hide();
+        $p2pic.hide();
+        $p3pic.fadeIn("fast");
+        $p2text.addClass('d-active');
+        $p2text.find('h2').addClass('dtexth2-act');
+        $p2text.find('p').addClass('d-arrow-act');
+        $p3text.addClass('d-active');
+        $p3text.find('h2').addClass('dtexth2-finish');
+      }
     }
 
   });
@@ -174,6 +176,11 @@ $(document).ready(() => {
       $(' .modulecenter ').removeClass('paraline-center');
     } else {
       $(' .modulecenter ').addClass('paraline-center');
+      $p2text.addClass('d-active');
+      $p2text.find('h2').addClass('dtexth2-act');
+      $p2text.find('p').addClass('d-arrow-act');
+      $p3text.addClass('d-active');
+      $p3text.find('h2').addClass('dtexth2-finish');
     }
   });
 
@@ -194,7 +201,13 @@ $(document).ready(() => {
 
   if($(window).width() < 768){
     $(' .modulecenter ').addClass('paraline-center');
+    $p2text.addClass('d-active');
+    $p2text.find('h2').addClass('dtexth2-act');
+    $p2text.find('p').addClass('d-arrow-act');
+    $p3text.addClass('d-active');
+    $p3text.find('h2').addClass('dtexth2-finish');
   };
+
 
 
 

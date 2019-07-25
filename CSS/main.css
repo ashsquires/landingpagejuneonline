@@ -3259,12 +3259,17 @@ footer .norm {
 
     /******mdemo****/
 
+    .demo {
+      justify-content: center;
+    }
+
     .productpics {
       display: none;
     }
 
     .demotext {
       margin: 0;
+      text-align: center;
     }
 
     .mob-product-pics {
@@ -3279,7 +3284,25 @@ footer .norm {
       flex-direction: column;
     }
 
+    .demopara {
+      margin: 100px auto 20px auto;
+    }
 
+    h2.dtexth2-act::before {
+      content: '';
+    }
+
+    h2.dtexth2::before {
+      content: '';
+    }
+
+    .d-arrow-act::before {
+      content: '';
+    }
+
+    .dtext p {
+      margin:0 0 10px 0;
+    }
 
 
     #learn {
